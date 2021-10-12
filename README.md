@@ -1,5 +1,5 @@
 # GandalfMania
-Simulateur de jeu d'attaque en c#, ce code permet de comprendre la logique de POO, l'heritage et l'instanciation de classe.
+A C # attack game simulator, this code helps you understand OOP logic, class inheritance and instantiation.
 
 
 # Execution
