@@ -4,6 +4,7 @@ A C # attack game simulator, this code helps you understand OOP logic, class inh
 
 # Execution
 
-```cd GandalfMania/AppAttaque\```
-``` dotnet run```
+1) ```cd GandalfMania/AppAttaque\```
+2) ``` dotnet run```
+
 
